@@ -8,4 +8,6 @@
 
 -MySql
 
- 
+ # Ejercicios Python
+
+-Algunas de las actividades realizadas con python con el aprendizaje de la universida
