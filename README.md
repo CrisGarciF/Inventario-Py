@@ -4,9 +4,9 @@
 
 -Css
 
--Html
+- Html
 
--MySql
+- MySql
 
  # Ejercicios Python
 
