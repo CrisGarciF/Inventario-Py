@@ -1,13 +1,13 @@
 # Inventario de equipos e utensilios realizado con:
 
-- Python  con el  Framework Flask
+- Python  con el  Framework Flask.
 
-- Css
+- Css.
 
-- Html
+- Html.
 
-- MySql
+- MySql.
 
- # Ejercicios Python
+ # Ejercicios Python.
 
 - Algunas de las actividades realizadas con python con el aprendizaje de la universida.
