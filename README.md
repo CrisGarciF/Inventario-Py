@@ -12,4 +12,4 @@
 
 - Algunas de las actividades realizadas con python con el aprendizaje de la universida.
 
-$ Fin .
+# Fin ...
