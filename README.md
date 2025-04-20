@@ -10,6 +10,6 @@
 
  # Ejercicios Python.
 
-- Algunas de las actividades realizadas con python con el aprendizaje de la universida.
+- Algunas de las actividades realizadas durante el aprendizaje con python en la universida.
 
 # Fin ...
